@@ -1,0 +1,20 @@
+footer {
+  padding: 32px 381.5px;
+  border-radius: 16px;
+  background: rgba(13, 19, 33, 0.03);
+  min-height: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-title {
+  color: var(--text-color);
+  font-family: var(--Azert-mono);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.socials-container {
+    display: flex;
+    column-gap: 24px;
+}
