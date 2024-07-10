@@ -62,7 +62,7 @@
   line-height: 26px;
   margin-bottom: 24px;
 }
-.target-container__footer_skill-link {
+.target-container__footer_skill-link, .future__target-link {
   color: var(--text-color);
   font-family: var(--Azert-mono);
   font-size: 16px;
