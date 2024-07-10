@@ -12,7 +12,6 @@
     linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.2) 100%),
     url("../../assets/handshake.jpg") lightgray 50% / cover no-repeat;
   margin-bottom: 80px;
-  margin-bottom: 80px;
 }
 .support__details-title {
   color: var(--white-color);
