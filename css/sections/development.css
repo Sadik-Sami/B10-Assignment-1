@@ -106,33 +106,3 @@
   border-radius: 16px;
   background: linear-gradient(270deg, #fff 0%, rgba(255, 255, 255, 0) 100%);
 }
-.inspiration-container {
-    margin-bottom: 151px;
-}
-.inspiration__details {
-    margin-bottom: 48px;
-}
-.inspiration__details-title {
-  color: var(--text-color);
-  text-align: center;
-  font-family: var(--Azert-mono);
-  font-size: 32px;
-  font-style: normal;
-  font-weight: 800;
-  line-height: normal;
-  margin-bottom: 24px;
-}
-.inspiration__details-subtitle {
-  color: var(--text-color);
-  text-align: center;
-  font-family: var(--Azert-mono);
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 26px;
-}
-.inspiration__video iframe {
-  border-radius: 16px;
-  border: 1px solid rgba(13, 19, 33, 0.2);
-  padding: 32px;
-}
